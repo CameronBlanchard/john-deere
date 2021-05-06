@@ -1,0 +1,26 @@
+:root{
+  --deere-gray: #e5e6e6;
+}
+
+h5{
+  max-width: 101px;
+  margin-left: 2.75rem;
+  margin-right: 2.75rem;
+}
+i{
+  height: 50px;
+  width: 50px;
+}
+
+button{
+  width: 100%;
+}
+
+.search-bar{
+  height: 100%;
+  width: 90%;
+}
+
+.deere-gray{
+  background-color: var(--deere-gray);
+}
